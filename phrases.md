@@ -2,9 +2,13 @@
 
 1. I'm down hard.
 > Estou muito mal.
-2. I'll gonna something insteresting.
+2. I'm gonna show you something insteresting.
 > Vou te mostrar algo interessante.
-3. You're scared me.
-> Você me assustou 
-4. You nailed it.
-> Bem na mosca
+3. You scared me.
+> Você me assustou.
+4. You nailed it | Nailed it
+> Bem na mosca | Na mosca
+5. Who's that ? | Who's that guy?
+> Quem é? | Quem é esse cara?
+Do you know this guy?
+> Você conhece esse cara?
